@@ -13,7 +13,10 @@
     "hbs": "^4.1.1",
     "mongoose": "^5.12.3",
     "morgan": "^1.10.0",
-    "serve-favicon": "^2.5.0"
+    "serve-favicon": "^2.5.0",
+    "bcrypt":"^5.0.1",
+    "express-session":"^1.17.2",
+    "connect-mongo": "^4"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
